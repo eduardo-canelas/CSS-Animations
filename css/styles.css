@@ -124,3 +124,30 @@ main h1 {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#thanks {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 265px;
+    background-color: #87cefa;
+    color: blue;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    font-family: helvetica;
+    margin: 0;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 83px;
+    width: 73%;
+    background-color: #87cefa;
+    color: blue;
+    font-size: 20px;
+    font-family: helvetica;
+    margin: 0;
+}
